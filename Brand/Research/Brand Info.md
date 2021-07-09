@@ -109,19 +109,32 @@
 
 ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ----
 
+ :::Web Solutions
+  + Personal
+  - Portfolio
+  - Biography
+  + Corporate
+  - Business
+  - News Portal
+  + Enterprise
+  - E-Commerce
+  - Management System
+
+---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ----
+
 
 <!-- Name:
     Sense Seekers -->
 <!-- Logo:
     Pen-to-Perfection (2020 - Current) -->
-Corporate Extension:
+<!-- Corporate Extension: -->
 Equity:
 Goals:
     An International Standard, Highly Skilled, Software Developer, Remote Organization.
 Objective:
     Building a Student Community of Computer Department GAI for Recruit Trainee.
     Creating a Resource Library for Computer Science Students and Professional Software and Web Developers.
-Key-phrase/Slogan/Tagline:
+<!-- Key-phrase/Slogan/Tagline: -->
 
 Promise:
     Nahid:: Quality -> Product or Service, Quality Everywhere.

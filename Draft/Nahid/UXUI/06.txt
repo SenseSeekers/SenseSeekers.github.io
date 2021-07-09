@@ -1,0 +1,61 @@
+Design System v-1.0
+    Foundation
+        Base/Core
+            Color
+            Typography
+            Icons
+        Modifiers
+            Shape
+            Grid
+            Elevation
+    Component
+        Basic
+            Accordion
+            Alert
+            Autocomplete
+            Avatar
+            Badge
+            Breadcrumbs
+            Buttons
+            Checkbox
+            Chip
+            Dialog
+            Label
+            List
+            Menu
+            Pagination
+            Pickers
+            Popover
+            Progress
+            Radio Button
+            Rating
+            Slider
+            Snackbar
+            Stepper
+            Switch
+            Table
+            Tabs
+            Text Field
+            Tooltip
+            Transfer List
+            Tree View
+            Chart
+            Map
+            Ediotr
+            Copy to Clipboard
+            Upload
+            Carousel
+            Multi Language
+            Animate
+            Mega Menu
+        Complex
+        Section
+            Navigation
+            Header
+            Footer
+            Main
+            Aside
+    Presentation
+        Documentation
+        Library
+        Prototype
