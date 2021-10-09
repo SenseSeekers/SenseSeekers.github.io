@@ -1,10 +1,59 @@
 Design System v-1.0
     Foundation
-        Base/Core
+    Foundation is the base of Design System. It helps to power-up elements following principles.
+        Core
+        This Core Elements used in Clean Minimal Design.
             Color
+            The ultimate elements of Design. Without color design is water.
+                Monochromatic
+                The Power of light is hidden here. Want nightmare? turn it off.
+                    Pure
+                    The most authentic so there is no darkness here.
+                    light
+                    Daylight will help you to keeping busy in work.
+                    Neutral
+                    A fairly neutral background will make any small splash of color stand out.
+                    Dark
+                    Darkness Everywhere so use use energy perfectly to be safe.
+                    Space
+                    Just empty but the other bright elements should fascinate.
+                Feedback
+                This colors is the best way to keeping conversation with binary.
+                    Sea
+                    This reflection of sky is wise enough to guide you.
+                    Desert
+                    It is just a warning, but try to back in Nature.
+                    Fire
+                    Before too late, escape safely, the flame is dangerous.
+                    Nature
+                    Not only for pleasing the eye also safe and secure too.
+                Brand
+                The one man army of the Interface, always like to attract with fans.
             Typography
-            Icons
+            This is the artistic visual representation of Feelings and Emotions.
+                Heading
+                    Title
+                Paragraph
+                    Lead
+                Subtitle
+                Quote
+                Caption
+            Artwork
+            The Antique Symbolic Icons are Suitable Enough to Express the vibes.
+                Icons
+                    Line
+                    Solid
+                    3D
+                Illustration
+                    Flat
+                    Animate
+                    Illusion
+                Media
+                    Audio
+                    Image
+                    Video
         Modifiers
+        The Modifiers helps to transform Design as Interface Landing.
             Shape
             Grid
             Elevation
